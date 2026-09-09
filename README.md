@@ -1,8 +1,5 @@
 # Wakely Landing Page (Legacy) 🌐
 
-> **🕰️ A Quick Journey Back in Time (Developer's Note):**
-> I built this single-page promotional website when I was **16 years old**, right alongside the Wakely Android app. It was my way of learning basic web layout and frontend animations. Looking back at the classic jQuery scripts and CSS tricks makes me nostalgic! This repository remains public as a time capsule of my early steps into web development and UI/UX presentation. Please view it through the lens of a beginner teenager experimenting with code.
-
 A simple, single-page promotional website (landing page) designed to showcase the concept and features of the Wakely smart alarm application. 
 
 ## 🛠 Tech Stack
